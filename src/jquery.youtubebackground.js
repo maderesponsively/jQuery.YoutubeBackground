@@ -5,7 +5,7 @@
  *   http://www.opensource.org/licenses/mit-license.php
  *
  *
- * Version:  1.0.1
+ * Version:  1.0.2
  *
  */
 
@@ -267,7 +267,6 @@ if (typeof Object.create !== "function") {
       if (this.options.mute) {
         e.target.mute();
       }
-      //e.target.playVideo();
 
     },
 
